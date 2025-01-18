@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library.  The issue is that the camera roll doesn't load properly when using a certain configuration of options with ImagePicker.showImagePickerAsync(). The picker may appear, but the images won't display.  This is particularly noticeable on Android devices.
